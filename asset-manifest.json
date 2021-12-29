@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/test222/static/js/main.7efeb9f6.js",
+    "static/media/gen-f21.png": "/test222/static/media/gen-f21.45ef035c6be06dc6e242.png",
+    "static/media/bmw-series-6.jpg": "/test222/static/media/bmw-series-6.f0b14d5041fef11c8631.jpg",
+    "static/media/gen-e88.jpg": "/test222/static/media/gen-e88.c42db1d4726f5d0850ac.jpg",
+    "index.html": "/test222/index.html",
+    "main.7efeb9f6.js.map": "/test222/static/js/main.7efeb9f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7efeb9f6.js"
+  ]
+}
